@@ -1,0 +1,4 @@
+img/output/*
+core/__pycache__
+video_salida.avi
+venv/
